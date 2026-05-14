@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+venv/
+.venv/
+token.json
+client_secret.json
+downloads/
+*.mp4
+*.wav
+*.mp3
+*.jpg
+*.png
+*.webp
